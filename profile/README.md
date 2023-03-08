@@ -1,6 +1,6 @@
 <h1 align="center"> We are GO Robot
 <h3 align="center"> 
-We are a robotics team from Ottobrunn, Germany participating in the <a href="https://www.first-lego-league.org/en/challenge/startseite.html">First Lego League</a> competition. The last four years we have always qualified for the international competition levels. Here you can find our code to use for your own projects.
+We are a robotics team from Ottobrunn, Germany participating in the <a href="https://www.first-lego-league.org/en/">First Lego League</a> competition. The last four years we have always qualified for the international competition levels. Here you can find our code to use for your own projects.
 
 ___
 
